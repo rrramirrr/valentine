@@ -1,14 +1,14 @@
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Segura?",
+    "DE VERDAD??",
+    "POFAVO NO SIGAS...?",
+    "POFAVO...",
+    "DETENTE, ME ESTAS LASTIMANDO",
+    "ME VOY A MORIR",
+    "ESCUCHASTE ESO?",
+    "FUE MI CORAZON ROMPERSEEE",
+    "OKEY YA ENTENDI",
+    "DI QUE SI POFAVO ❤️"
 ];
 
 let messageIndex = 0;
